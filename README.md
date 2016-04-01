@@ -76,3 +76,5 @@ git远端可以多个分支同时开发
 3. 解决每个issue的问题时都创建自己新的本地分支。
 4. PR与issue的关联，我们发送的PR可以与指定的issue关联或者关闭掉指定的issue。在发送PR的页面的comment内容里边用#issue no.关联相应的issue，fix #issue no.关闭相应的issue。也可以手动关闭issue。
 5. issue的好处是把bug或者任务跟我们的PR自动关联，很方便查询到那部分修改修复了这个bug。
+
+6
